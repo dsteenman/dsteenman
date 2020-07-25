@@ -5,6 +5,6 @@
   <ul>
     <li><a href=https://dannys.cloud/break-out-comfort-zone-engineer>Break out of your Comfort Zone as an Engineer</a></li><li><a href=https://dannys.cloud/aws-cloud-practitioner-exam-guide>How to pass the AWS Cloud Practitioner exam – complete guide</a></li><li><a href=https://dannys.cloud/aws-certification-preparation>AWS Certification Preparation</a></li><li><a href=https://dannys.cloud/10-best-vs-code-extensions-for-python>10 Best VS Code extensions for Python</a></li><li><a href=https://dannys.cloud/hardening-a-wordpress-website-on-aws-lightsail>Hardening a WordPress website on AWS Lightsail</a></li>
   </ul>
-<p><a href="https://dannys.cloud/blog">➡️ More blog posts</a></p>
+<p><a href="https://dannys.cloud">➡️ More blog posts</a></p>
 <h1>Last Tweet</h1>
 <p><a href="https://www.twitter.com/dannysteenman"><img src="https://github.com/dsteenman/dsteenman/blob/main/tweet.png" width="600"></a></p>
