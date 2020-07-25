@@ -12,13 +12,13 @@ lasttweet_token <- function() {
   )
 }
 
-handle <- "mokkapps"
+handle <- "dannysteenman"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 
 tmpimg <- "tweet.png"
 tweet_screenshot(
   tweet_url(handle, recent_tweets$status_id),
-  scale = 5, 
+  scale = 5,
   maxwidth = 600,
   theme = "light",
   hide_media = TRUE,

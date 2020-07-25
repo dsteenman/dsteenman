@@ -56,6 +56,6 @@ async function loadBlogPosts() {
   <ul>
     ${links}
   </ul>\n
-  [:arrow_right: More blog posts](${websiteUrl}/blog)
+  [:arrow_right: More blog posts](${websiteUrl})
   `;
 }
