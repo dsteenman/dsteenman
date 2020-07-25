@@ -27,7 +27,7 @@ md.use(emoji);
     console.error(`Failed to load blog posts from ${websiteUrl}`, e);
   }
 
-  const twitterImage = `[<img src="https://github.com/mokkapps/mokkapps/blob/master/tweet.png" width="600">](${twitterUrl})`;
+  const twitterImage = `[<img src="https://github.com/dsteenman/dsteenman/blob/main/tweet.png" width="600">](${twitterUrl})`;
   const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
   const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
   const devToBadge = `[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=${badgeHeight}>](${devToUrl})`;
