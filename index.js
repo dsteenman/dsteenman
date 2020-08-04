@@ -9,7 +9,7 @@ const Parser = require("rss-parser");
 
 const parser = new Parser();
 
-const feedUrl = "https://dannys.cloud/feed";
+const feedUrl = "https://dannys.cloud/feed.xml";
 const websiteUrl = "https://dannys.cloud";
 const twitterUrl = "https://www.twitter.com/dannysteenman";
 const linkedInUrl = "https://www.linkedin.com/in/dannysteenman";
